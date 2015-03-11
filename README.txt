@@ -1,6 +1,5 @@
 === Google No CAPTCHA reCAPTCHA by WisdmLabs ===
 Contributors: WisdmLabs
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=info%40wisdmlabs%2ecom&lc=US&item_name=WisdmLabs%20Plugin%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: nocaptcha recaptcha, contact form 7
 Requires at least: 3.9
 Tested up to: 4.1.1
@@ -74,4 +73,3 @@ In the plugin settings, you'll have to enter a Secret Key and a Site Key. You ca
 
 = 1.1.1 =
 * Fixed the issue `Site Breaking while using version 1.1.0`
- 
